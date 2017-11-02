@@ -1,0 +1,2 @@
+# wizzair-scraper
+WizzAir scraper
